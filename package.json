@@ -1,0 +1,25 @@
+{
+  "name": "smartip",
+  "version": "0.0.0",
+  "description": "handle IPs in a smart way",
+  "main": "index.js",
+  "scripts": {
+    "test": "(npmts) && (node test.js)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pushrocks/smartip.git"
+  },
+  "keywords": [
+    "github",
+    "bitbucket",
+    "ip",
+    "ipblocks"
+  ],
+  "author": "Lossless Digital UG (haftungsbeschraenkt)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pushrocks/smartip/issues"
+  },
+  "homepage": "https://github.com/pushrocks/smartip#readme"
+}
